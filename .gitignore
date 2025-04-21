@@ -13,8 +13,6 @@ __pycache__/
 env/
 .venv/
 
-# Dataset binaries
-*.parquet
 
 # Build / Dist
 dist/
