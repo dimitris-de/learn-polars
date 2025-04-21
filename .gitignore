@@ -42,3 +42,7 @@ build/
 
 # Windows system files
 Thumbs.db
+
+*-nbconvert.ipynb
+*-executed.ipynb
+.ipynb_checkpoints/
