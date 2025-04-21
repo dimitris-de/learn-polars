@@ -1,0 +1,10 @@
+client_id,asset_class,value
+C0001,equity_val,10000
+C0002,equity_val,15000
+C0003,equity_val,8000
+C0001,bond_val,5000
+C0002,bond_val,7000
+C0003,bond_val,12000
+C0001,commodity_val,2000
+C0002,commodity_val,0
+C0003,commodity_val,3000
