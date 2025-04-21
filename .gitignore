@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+env/
+.venv/
+
+# Dataset binaries
+*.parquet
+
+# Build / Dist
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Data files (add if generated/large)
+*.csv
+*.tsv
+*.xlsx
+
+# Notebook conversion outputs
+*.nbconvert.ipynb
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter & Python runtime
+.local/
+.ipython/
+.python_history
+
+# Windows system files
+Thumbs.db

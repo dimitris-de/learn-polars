@@ -1,0 +1,32 @@
+[
+  {
+    "client_id": "C0001",
+    "portfolios": [
+      {
+        "port_id": "P1",
+        "holdings": [
+          "A0001",
+          "A0002"
+        ]
+      },
+      {
+        "port_id": "P2",
+        "holdings": [
+          "A0003"
+        ]
+      }
+    ]
+  },
+  {
+    "client_id": "C0002",
+    "portfolios": [
+      {
+        "port_id": "P3",
+        "holdings": [
+          "A0001",
+          "A0004"
+        ]
+      }
+    ]
+  }
+]
